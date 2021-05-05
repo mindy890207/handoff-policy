@@ -1,0 +1,57 @@
+lambda = 1/2
+
+  AVGmax Power(best policy) = 20.761065 
+
+  AVGmin Power = 17.895208
+
+  Threshold Policy Power = 19.338228
+  
+  Entropy Policy Power = 19.329729
+
+  My Policy Power = 19.335048
+
+  T = 14.25
+  
+  E = 11.5
+
+  mypolicy E = 11.1
+
+
+
+lambda = 1/3
+
+  AVGmax Power(best policy) = 20.768559 
+
+  AVGmin Power = 17.894217
+
+  Threshold Policy Power = 19.337631
+  
+  Entropy Policy Power = 19.335821
+
+  My Policy Power = 19.342386
+
+  T = 14.25
+  
+  E = 11.5
+
+  mypolicy E = 11.1
+
+
+
+lambda = 1/5
+
+  AVGmax Power(best policy) = 20.760763
+
+  AVGmin Power = 17.890739
+  
+  Threshold Policy Power = 19.338390
+  
+  Entropy Policy Power = 19.327402
+
+  My Policy Power = 19.351101
+
+  T = 14.25
+  
+  E = 11.5
+
+  mypolicy E = 11.1
